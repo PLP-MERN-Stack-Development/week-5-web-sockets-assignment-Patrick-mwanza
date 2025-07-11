@@ -38,13 +38,12 @@ Users can see new comments on recipes instantly without refreshing the page.
 ## 📸 Screenshots / GIFs
 
 ### ✅ Home Page (Landing)
-![<img width="957" height="439" alt="image" src="https://github.com/user-attachments/assets/c788ab24-5875-4f82-8dec-3405b4dc60c5" />
-]()
-](https://via.placeholder.com/800x400?text=Home+Page+Screenshot)
+[<img width="901" height="463" alt="image" src="https://github.com/user-attachments/assets/048de866-45e5-4532-9f58-13ae6ea2e99a" />
+]
 
 ### ✅ Recipe Detail Page with Real-time Comments
-![<img width="957" height="414" alt="image" src="https://github.com/user-attachments/assets/08d2b731-e779-4dce-84b5-9587b0b4fbdf" />
-RecipeDetail Screenshot](https://via.placeholder.com/800x400?text=Recipe+Detail+Real-time+Comments)
+[<img width="957" height="414" alt="image" src="https://github.com/user-attachments/assets/fe03e1ff-57c6-48de-ae5d-c358b2be0be3" />
+]
 
 > *Note: Replace with real screenshots after deployment or testing.*
 
