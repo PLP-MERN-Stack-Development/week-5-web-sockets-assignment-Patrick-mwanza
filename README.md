@@ -40,6 +40,9 @@ Users can see new comments on recipes instantly without refreshing the page.
 ### ✅ Home Page (Landing)
 [<img width="901" height="463" alt="image" src="https://github.com/user-attachments/assets/048de866-45e5-4532-9f58-13ae6ea2e99a" />
 ]
+### ✅ Recipe list page 
+[<img width="944" height="467" alt="image" src="https://github.com/user-attachments/assets/6018c2a8-00ab-42cd-b245-e0d4278dfbdd" />
+]
 
 ### ✅ Recipe Detail Page with Real-time Comments
 [<img width="957" height="414" alt="image" src="https://github.com/user-attachments/assets/fe03e1ff-57c6-48de-ae5d-c358b2be0be3" />
